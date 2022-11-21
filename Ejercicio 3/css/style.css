@@ -1,0 +1,25 @@
+h1{
+    font-size: 35px;
+
+}
+
+h2{
+    font-size: 25px;
+
+}
+
+
+h3{
+    font-size: 15px;
+
+}
+
+body{
+    color:rgb(0, 0, 0);
+    text-align:justify;
+    padding-top: 20px;
+    padding-left: 10%;
+    padding-right: 50px;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
