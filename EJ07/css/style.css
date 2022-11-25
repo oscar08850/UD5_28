@@ -11,6 +11,15 @@ h1 {
     text-align: center;
 }
 
+.verde{
+    color: rgb(30, 37, 31);
+    }
+
+.amarillo{
+    color: rgb(172, 130, 54);
+}
+
+
 h1 span {
     color: brown;
 }

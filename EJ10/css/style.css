@@ -21,10 +21,6 @@ h1 {
 }
 
 
-h1 span {
-    color: brown;
-}
-
 h2 {
     color: green;
     border-bottom: rgb(73, 88, 12) 1px solid;
@@ -38,18 +34,31 @@ div.wrapper{
     overflow: hidden;
 }
 
+ul{
+    list-style: none;
+}
+
+
+
 div.marco {
     border: lightgray 1px solid;
     margin: 10px;
     margin-left: 150px;
     margin-right: 5px;
     padding: 7px;
-
 }
 
 div.selector {
     float: left;
     margin-top: 20px;
 
+}
+
+.btn{
+    width: 100px;
+    height: 30px;
+    border: 0px; 
+    margin: 2px;
+    background-color:#bbda6f;
 }
 
