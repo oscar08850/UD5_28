@@ -1,6 +1,6 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align:justify;
+    text-align: justify;
     padding-top: 1%;
     padding-left: 1%;
     padding-right: 1%;
@@ -8,15 +8,14 @@ body {
 }
 
 h1 {
-    color: darkgreen;
     text-align: center;
 }
 
-.verde{
-    color: rgb(30, 37, 31);
-    }
+.verde {
+    color: rgb(19, 104, 32);
+}
 
-.amarillo{
+.amarillo {
     color: rgb(172, 130, 54);
 }
 
@@ -30,11 +29,11 @@ h3 {
     color: rgb(233, 96, 47)
 }
 
-div.wrapper{
+div.wrapper {
     overflow: hidden;
 }
 
-ul{
+ul {
     list-style: none;
 }
 
@@ -54,11 +53,10 @@ div.selector {
 
 }
 
-.btn{
+.btn {
     width: 100px;
     height: 30px;
-    border: 0px; 
+    border: 0px;
     margin: 2px;
-    background-color:#bbda6f;
+    background-color: #bbda6f;
 }
-

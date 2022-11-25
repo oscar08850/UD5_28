@@ -7,22 +7,17 @@ body {
 }
 
 h1 {
-    color: darkgreen;
     text-align: center;
 }
 
-.verde{
-    color: rgb(30, 37, 31);
-    }
+.verde {
+    color: rgb(19, 104, 32);
+}
 
 .amarillo{
     color: rgb(172, 130, 54);
 }
 
-
-h1 span {
-    color: brown;
-}
 
 h2 {
     color: green;
